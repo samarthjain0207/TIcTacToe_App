@@ -1,4 +1,4 @@
-public class TicTacToe_Agipp {
+public class TicTacToe_App {
     static char[][] board = new char[3][3];
     public static void main(String[] args) {
         initializeBoard();
